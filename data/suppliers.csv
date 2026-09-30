@@ -1,0 +1,9 @@
+id,name,location,category,reliability_score,lead_time_days
+WH,Central Apex Logistics Hub,Industrial Zone A,Logistics / Storage,0.99,1
+S1,FreshDairy Co-op,Sector 4 Dairy Park,Dairy & Poultry,0.95,1
+S2,GrainMart Agro Hub,Mandi Complex B,Staples & Grains,0.92,3
+S3,PureOils Processing Ltd,Refinery Ring Road,Edible Oils & Fats,0.89,2
+S4,SweetSugar & Salt Depot,Warehouse District 7,Sugars & Salts,0.94,2
+S5,BakeryHub Industrial Bakery,Food Processing Unit 3,Bakery & Confectionery,0.96,1
+S6,DailyEssentials FMCG Hub,Metro Cargo Terminal,Beverages & Personal Care,0.91,2
+STORE,Apex Supermarket #01,City Central Mall,Retail Storefront,1.00,0

@@ -1,0 +1,9 @@
+# Git ignore for Retail Reorder Predictor
+*.class
+out/
+bin/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+*.iml

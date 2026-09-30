@@ -1,0 +1,14 @@
+id,name,category,stock,reorder_level,lead_time_days,unit_price
+SKU-101,Fresh Whole Milk (1L),Dairy,54,40,2,32.00
+SKU-102,Whole Wheat Bread (400g),Bakery,30,25,1,45.00
+SKU-103,Farm Fresh Eggs (Pack of 12),Poultry,52,30,2,85.00
+SKU-104,Refined Sunflower Oil (1L),Staples,38,45,3,140.00
+SKU-105,Pure Cane Sugar (1kg),Staples,75,50,2,48.00
+SKU-106,Royal Basmati Rice (5kg),Staples,60,30,4,390.00
+SKU-107,Whole Wheat Atta (5kg),Staples,85,35,3,220.00
+SKU-108,Premium CTC Tea (500g),Beverages,42,25,3,195.00
+SKU-109,Refined Iodized Salt (1kg),Staples,120,40,2,24.00
+SKU-110,Moisturizing Bath Soap (Pack of 4),Personal Care,55,30,3,160.00
+SKU-111,Crunchy Butter Biscuits (200g),Snacks,48,30,2,35.00
+SKU-112,Organic Toor Dal (1kg),Staples,68,35,3,175.00
+SKU-113,Dark,General,30,20,2,50.00
